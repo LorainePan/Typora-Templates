@@ -1,0 +1,64 @@
+@font-face{
+    font-family: "Latin Modern Roman";
+    src : local('lmroman10-regular');
+}
+
+@font-face{
+    font-family: "Latin Modern Roman";
+    src : local('lmroman10-bold');
+    font-weight: bold;
+}
+
+@font-face{
+    font-family: "Latin Modern Roman";
+    src : local('lmroman10-italic');
+    font-style: italic;
+}
+
+@font-face{
+    font-family: "Latin Modern Roman";
+    src : local('lmroman10-bolditalic');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face{
+    font-family: "华文宋体";
+    src : local('STSongti-SC-Regular');
+}
+
+@font-face{
+    font-family: "华文黑体";
+    src : local("STSongti-SC-Black");
+}
+
+@font-face{
+    font-family: "华文楷体";
+    src : local("HuaWenKaiTi");
+}
+
+@font-face{
+    font-family: "华文仿宋";
+    src : local("HuaWenFangSong");
+}
+
+@font-face{
+    font-family: "阿里巴巴普惠体 2.0";
+    src : local("AlibabaPuHuiTi-2-55-Regular");
+}
+
+@font-face{
+    font-family: "Latin Modern Mono";
+    src : local("lmmono10-regular");
+}
+
+
+@font-face{
+    font-family: "SF Mono";
+    src : local("SF-Mono-Regular");
+}
+
+
+
+
+
