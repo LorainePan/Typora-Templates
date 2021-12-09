@@ -15,7 +15,7 @@ ProjectName and Description
 
 ![Product Name Screen Shot][product-screenshot]
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `repo_name`
+Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `Typora-Templates`
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -70,14 +70,14 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/watercore1/repo_name.svg?style=flat-square
-[contributors-url]: https://github.com/watercore1/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/watercore1/repo_name.svg?style=flat-square
-[forks-url]: https://github.com/watercore1/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/watercore1/repo_name.svg?style=flat-square
-[stars-url]: https://github.com/watercore1/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/watercore1/repo_name.svg?style=flat-square
-[issues-url]: https://img.shields.io/github/issues/watercore1/repo_name.svg
-[license-shield]: https://img.shields.io/github/license/watercore1/repo_name.svg?style=flat-square
-[license-url]: https://github.com/watercore1/repo_name/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/watercore1/Typora-Templates.svg?style=flat-square
+[contributors-url]: https://github.com/watercore1/Typora-Templates/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/watercore1/Typora-Templates.svg?style=flat-square
+[forks-url]: https://github.com/watercore1/Typora-Templates/network/members
+[stars-shield]: https://img.shields.io/github/stars/watercore1/Typora-Templates.svg?style=flat-square
+[stars-url]: https://github.com/watercore1/Typora-Templates/stargazers
+[issues-shield]: https://img.shields.io/github/issues/watercore1/Typora-Templates.svg?style=flat-square
+[issues-url]: https://img.shields.io/github/issues/watercore1/Typora-Templates.svg
+[license-shield]: https://img.shields.io/github/license/watercore1/Typora-Templates.svg?style=flat-square
+[license-url]: https://github.com/watercore1/Typora-Templates/blob/master/LICENSE.txt
 [product-screenshot]: images/screenshot.png
