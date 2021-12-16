@@ -15,15 +15,7 @@ ProjectName and Description
 
 ![Product Name Screen Shot][product-screenshot]
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `Typora-Templates`
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-### Built With
-
-* []()
-* []()
+收藏的几款Typora主题，其中latex主题用于打印为PDF格式。
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -31,33 +23,9 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+下载解压到Typora的Theme文件夹
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
-<!-- ROADMAP -->
-## ROADMAP
-
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-Don't forget to give the project a star! Thanks again!
-
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- LICENSE -->
 ## License
@@ -80,4 +48,4 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [issues-url]: https://img.shields.io/github/issues/watercore1/Typora-Templates.svg
 [license-shield]: https://img.shields.io/github/license/watercore1/Typora-Templates.svg?style=flat-square
 [license-url]: https://github.com/watercore1/Typora-Templates/blob/master/LICENSE.txt
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: readme/screenshot.png
