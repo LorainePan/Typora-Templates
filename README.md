@@ -1,6 +1,6 @@
-# ProjectName
+# Typora主题
 
-ProjectName and Description
+收藏的几款Typora主题。
 
 <!-- PROJECT SHIELDS -->
 [![Contributors][contributors-shield]][contributors-url]
@@ -15,7 +15,7 @@ ProjectName and Description
 
 ![Product Name Screen Shot][product-screenshot]
 
-收藏的几款Typora主题，其中latex主题用于打印为PDF格式。
+latex主题用于打印为PDF格式，其他主题用于写内容。
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
